@@ -16,7 +16,7 @@ from yowsup.layers.axolotl                     import YowAxolotlLayer
 from yowsup import env
 
 
-CREDENTIALS = ("919643392110", "68K8YZb/XHW5ZA1KxL23MMsfHBc=") # replace with your phone and password
+CREDENTIALS = ("xxxxxxx", "xxxxxxxxxxxxxxxxxxx") # replace with your phone and password
 
 if __name__==  "__main__":
     layers = (
